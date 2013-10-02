@@ -1,0 +1,59 @@
+-Cat
+
+This is a cat I found at a shelter. I call him James! James is a good name for a cat, right?
+
+-Door (Closed)
+
+Oh no, the door is closed! It makes me feel alone...
+
+-Diary
+
+Dear Diary: Today I started school. Everything is new and strange. I don't think I'll make friends.
+
+-Door (Open)
+
+I feel more safe now the door's open. James can come in at night now.
+
+-Hole in Wall (no cat)
+
+I hope there aren't any mice hiding in the walls. Or rats. Rats are bigger and scarier.
+
+-Hole in Wall (with cat)
+
+I hope there aren't any mice or rats hiding in the walls, James might eat them!
+
+-Lamp (Broken)
+
+This is my favourite lamp! I really like it, even though it's broken...
+
+-Lamp (Fixed)
+
+My lamp's all fixed. Now I can see what's in my room at night!
+
+-Parrot
+
+It's a wooden parrot. Dad thought this would help me sleep, but it just stares at me all the time...
+
+-Picture Frame (normal)
+
+I don't like this picture. It reminds me of our trip to Alaska. It was sooo cold!
+
+-Picture Frame (changed)
+
+There. Now I don't have to worry about that picture any more.
+
+-Poster
+
+I don't like this poster at all. Clowns are terrifying!
+
+-Radiator
+
+This will keep me cosy for sure!
+
+-Window (open)
+
+I should probably close this now. At night it'll be too cold to get out of bed!
+
+-Window (closed)
+
+The room can get much warmer now, but what if monsters like it too?!?
